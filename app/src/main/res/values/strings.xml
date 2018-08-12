@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="empty_title">Your inventory is empty</string>
+    <string name="emtpy_subtitle">Get started by adding items…</string>
+
+    <string name="title_add">Add item</string>
+    <string name="title_edit">Edit item</string>
+
+    <string name="product_name">product name</string>
+    <string name="product_price">product price</string>
+    <string name="product_quantity">current quantity</string>
+    <string name="description">description</string>
+    <string name="sell">sell</string>
+    <string name="no_description">no description</string>
+
+    <string name="unsaved_data">There is some unsaved data</string>
+    <string name="discard">discard</string>
+    <string name="stay">stay</string>
+
+    <string name="no_name">Please provide a name</string>
+    <string name="no_price">Please provide a price</string>
+    <string name="no_quantity">Please provide a quantity</string>
+
+    <string name="not_saved">Failed to save item</string>
+    <string name="saved">Item saved</string>
+
+    <string name="sold">Sold</string>
+    <string name="not_sold">Not sold</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleted">Item deleted</string>
+    <string name="not_deleted">Error deleting the item</string>
+
+    <string name="in_stock">in stock</string>
+    <string name="pick_image">pick an image</string>
+
+    <string name="dummy">insert dummy data</string>
+    <string name="add_item">add item</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+
+    <string name="sample_description">Tells time</string>
+    <string name="order">order</string>
+</resources>
